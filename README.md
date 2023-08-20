@@ -22,12 +22,12 @@ Undertaking a project on the ZF Gear Box not only solidified my theoretical unde
 - **Introduction to Web Development with HTML, CSS, and JavaScript**
   - Coursera, IBM
   - Completed with 100% grades
-  - [(Certificate_Link)](https://coursera.org/share/7943059e90c43cc6042ec7cadd330400)
+  - [Certificate_Link](https://coursera.org/share/7943059e90c43cc6042ec7cadd330400)
   
 - **Introduction to Cloud Computing**
   - Coursera, IBM
   - Completed with 98% grades
-  - [Certificate_Link](https://coursera.org/share/9c8c2c1c676e306e741b6d47922e5b6e)-
+  - [Certificate_Link](https://coursera.org/share/9c8c2c1c676e306e741b6d47922e5b6e)
 
 - **Getting Started with Git and GitHub**
   - Coursera, IBM
