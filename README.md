@@ -27,7 +27,12 @@ Undertaking a project on the ZF Gear Box not only solidified my theoretical unde
 - **Introduction to Cloud Computing**
   - Coursera, IBM
   - Completed with 98% grades
-  - [Certificate_Link](https://coursera.org/share/9c8c2c1c676e306e741b6d47922e5b6e)
+  - [Certificate_Link](https://coursera.org/share/9c8c2c1c676e306e741b6d47922e5b6e)-
+
+- **Getting Started with Git and GitHub**
+  - Coursera, IBM
+  - Completed with 98% grades
+  - [Certificate_Link](https://coursera.org/share/98f9b8c53ef3e782e8b85ff294ce060b)
       
 ### 📚 Education
 
