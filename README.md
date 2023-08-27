@@ -64,6 +64,7 @@ Undertaking a project on the ZF Gear Box not only solidified my theoretical unde
 I'm excited to collaborate, innovate, and contribute to the world of software development. Let's connect and explore opportunities to learn and grow together!
 
 [LinkedIn](www.linkedin.com/in/cruzer-08-blade)
+[Twittwr](www.twitter.com/Shishir08810422)
 [GitHub](https://github.com/Cruz-Rider)
 
 Feel free to explore my repositories to discover more about my projects and contributions!
