@@ -1,72 +1,62 @@
-# SHISHIR SHUKLA
-## Full Stack Software Developer | Mechanical Engineer | Passionate Innovator
+# 👋 Hello, I'm Shishir Shukla!
 
-👋 Welcome to my GitHub profile! I'm Shishir Shukla, a dedicated Full Stack Software Developer with a foundation in Mechanical Engineering. I blend technical expertise with creative problem-solving to create innovative digital solutions.
+I'm a **Full Stack Developer** with a passion for creating scalable software solutions and enhancing user experience. I currently work at **Sigitek Software Services** and have a background in Mechanical Engineering, transitioned to tech through practical projects and specialized certifications. I'm skilled in working with modern frameworks, cloud services, and data handling, and I thrive in problem-solving and product development.
 
-### 🔧 Skills & Expertise
+![Visitor Count](https://komarev.com/ghpvc/?username=Cruz-Rider&label=Profile%20views&color=0e75b6&style=flat)
 
-- **Full Stack Development:** Proficient in HTML, CSS, JavaScript, and frameworks like React for creating dynamic and responsive web applications.
-- **Programming Languages:** Mastery in C/C++ for algorithmic thinking and problem-solving.
-- **Technical Innovation:** Bridging engineering principles with technology to craft unique solutions.
-- **AutoCAD:** Proficient in designing precision-engineered components and systems.
+---
 
-### 🚀 Projects
+## 🛠️ Tech Stack
 
-#### Final Year Project - Plastic Reinforced Brick Manufacturing Machine:
-My final year project, the 'Plastic Reinforced Brick Manufacturing Machine,' was a collaborative endeavor that underscored my ability to work effectively within a team. This project showcased innovation, hands-on engineering skills, and sustainable thinking—a trifecta that resonates profoundly as I seek to innovate in the software domain.
-#### Project on ZF Gear Box - Applying Engineering Concepts:
-Undertaking a project on the ZF Gear Box not only solidified my theoretical understanding but also allowed me to apply engineering principles in a practical context. The project showcased my ability to analyze intricate mechanisms, derive innovative solutions, and work meticulously to achieve tangible outcomes. This project-oriented approach laid a strong foundation for my systematic approach to coding and software development.
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-### 🏆 Certification Courses
+- **Programming Languages:** JavaScript, Python, C/C++, HTML5, CSS3
+- **Libraries/Frameworks:** React.js, Node.js, Django, Flask, jQuery, Express.js, D3.js, Three.js, Bootstrap, Selenium
+- **Tools/Platforms:** Git, VS Code, Google IDX, Docker, Kubernetes, Postman, AWS, Azure, Ubuntu
+- **Databases:** SQL, NoSQL, PostgreSQL, MySQL, MongoDB
 
-- **Introduction to Web Development with HTML, CSS, and JavaScript**
-  - Coursera, IBM
-  - Completed with 100% grades
-  - [Certificate_Link](https://coursera.org/share/7943059e90c43cc6042ec7cadd330400)
-  
-- **Introduction to Cloud Computing**
-  - Coursera, IBM
-  - Completed with 98% grades
-  - [Certificate_Link](https://coursera.org/share/9c8c2c1c676e306e741b6d47922e5b6e)
+---
 
-- **Getting Started with Git and GitHub**
-  - Coursera, IBM
-  - Completed with 98% grades
-  - [Certificate_Link](https://coursera.org/share/98f9b8c53ef3e782e8b85ff294ce060b)
-      
-### 📚 Education
+## 🚀 Current Projects
 
-- **Bachelor's of Technology in Mechanical Engineering**
-  - Dr. A.P.J. Abdul Kalam Technical University, 2021
-  - Relevant coursework:
-    - Thermodynamics and Heat Transfer
-    - Mechanics of Materials
-    - Fluid Mechanics
-    - Engineering Design and Analysis
-    - Manufacturing Processes
-    - Machine Design
-    - Control Systems
-    - Materials Science and Engineering
-    - Automobile Engineering
-    - Computer-Aided Design
+- **📂 [SigiXtract App](https://sigixtract.web.app/):** Developed enhanced TIFF file compatibility, leveraging Azure Blob storage and Cosmos DB for smooth data integration and retrieval.
+- **🌐 [Tap & Go Website](https://tapngocarwash.com/):** Built a responsive React.js site with Google Maps API integration, aimed at improving client engagement and business growth.
+- **📊 Visualization Dashboard:** Created an interactive data visualization dashboard using Django and D3.js, enabling complex data analysis through a responsive UI.
+- **📬 [Gmail Auto Respond](https://github.com/Cruz-Rider/gmailAutorespond):** Automated email responses using Node.js and Gmail API, reducing response time by 30% with secure OAuth authentication.
 
-### 🌟 Achievements
+---
 
-- **Basketball Team Captain**, showcasing leadership and teamwork.
-- **Second Position in Basketball:** Participated and secured the SECOND POSITION in the BASKETBALL event at DR. A.P.J. ABDUL KALAM SPORTS FEST 2019-20 (Zonal Level), held on September 25-26, 2019.
-- **National Level Basketball Participation:** Represented my college at the prestigious National Level Sports Fest "CHAKRAVYUH," held on 19-20 October 2019 at IMSEC Ghaziabad, demonstrating dedication and skill in basketball.
-- **First Position in Counter-Strike:** Participated and secured the FIRST POSITION in the COUNTER STRIKE event in EUREKA 2K20 held on 13-15 March 2020.
-- **Second Position in Counter-Strike:** Participated and secured the SECOND POSITION in the COUNTER STRIKE event in EUREKA 2K18 held on 13-15 November 2018.
-- **Swachh Bharat Summer Internship:** Successfully completed the SWACHH BHARAT SUMMER INTERNSHIP during 2018-19.
+## 🎓 Certifications & Learning
 
-### 📫 Let's Connect
+- **IBM Full Stack Software Developer Specialization** – [Coursera](https://coursera.org/share/b7c2c1f44ac216eb95cfae23a29fd32e)
+- **Software Engineer Intern** – [HackerRank](https://www.hackerrank.com/certificates/5e7045b52bc8)
 
-I'm excited to collaborate, innovate, and contribute to the world of software development. Let's connect and explore opportunities to learn and grow together!
+Currently, I am advancing my skills in API development, automation, and cloud-based solutions.
 
-[LinkedIn](www.linkedin.com/in/cruzer-08-blade)
-[Twitter](www.twitter.com/Shishir08810422)
-[GitHub](https://github.com/Cruz-Rider)
+---
 
-Feel free to explore my repositories to discover more about my projects and contributions!
+## 📈 GitHub Stats
 
-🔗 Thanks for visiting, and let's build something amazing together!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cruz-Rider&show_icons=true&theme=radical" alt="Shishir's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cruz-Rider&layout=compact&theme=radical" alt="Top languages" />
+</div>
+
+---
+
+## 💼 Open for Collaboration
+
+I'm always interested in collaborating on projects related to web development, automation, and open-source contributions. If you have an interesting project or opportunity, feel free to connect with me!
+
+- 📫 [LinkedIn](https://linkedin.com/in/shishirshukla)
+- 🌟 Explore my [repositories](https://github.com/Cruz-Rider) to see what I've been working on!
+
+---
+
+Thank you for visiting my profile! 😄
