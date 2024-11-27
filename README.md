@@ -11,14 +11,15 @@ I'm a **Full Stack Developer** with a passion for creating scalable software sol
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 
-- **Programming Languages:** JavaScript, Python, C/C++, HTML5, CSS3
-- **Libraries/Frameworks:** React.js, Node.js, Django, Flask, jQuery, Express.js, D3.js, Three.js, Bootstrap, Selenium
+- **Programming Languages:** TypeScript, JavaScript, Python, C/C++, HTML5, CSS3
+- **Libraries/Frameworks:** Next.js, React.js, Node.js, Django, Flask, jQuery, Express.js, D3.js, Three.js, Bootstrap, Selenium
 - **Tools/Platforms:** Git, VS Code, Google IDX, Docker, Kubernetes, Postman, AWS, Azure, Ubuntu
 - **Databases:** SQL, NoSQL, PostgreSQL, MySQL, MongoDB
 
